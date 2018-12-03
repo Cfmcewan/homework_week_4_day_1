@@ -1,0 +1,44 @@
+li {
+  list-style-type: none;
+  text-align: center;
+  font-family: helvetica;
+  border: 1px dotted #373530;
+	border-radius: 5px;
+  padding: 10px;
+  margin: auto;
+  width: 50px;
+}
+
+
+body {
+	background-image: linear-gradient(to right, #a5a4aa, #d2f1b6);
+}
+
+h1 {
+  font-family: helvetica;
+  color: grey;
+  text-align: center;
+
+}
+
+h2 {
+  font-family: helvetica;
+  color: grey;
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 70px;
+  font-family: helvetica;
+  color: grey;
+  text-align: center;
+  padding: 100px 100px 100px 100px;
+}
+
+p {
+  font-size: 70px;
+  font-family: helvetica;
+  color: grey;
+  text-align: center;
+}
